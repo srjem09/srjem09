@@ -1,4 +1,4 @@
-## Hi 👋
+Hi 👋 I build practical web tools to keep my skills sharp. 
 
 I build lightweight, practical tools focused on business, finance, and everyday maths. My projects prioritise speed, clarity, and usefulness over complexity.
 
